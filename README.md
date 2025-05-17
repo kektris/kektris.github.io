@@ -23,6 +23,7 @@ I'm coder and designer from Russia. Currently in mid-school.
 >>> 
 >>> OS: Dualboot of **Windows 11 23H2** and **Fedora 41**
 >>>
+>>
 >> Secondary: **MacBook Pro (Retina, 13-inch, Early 2013)**
 >>> Processor: **Intel Core i5-3230M**
 >>>
