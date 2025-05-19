@@ -32,3 +32,12 @@
 >>> Память: **8/512**
 >>>
 >>> Система: **macOS 14.7.1 (Sonoma)**
+
+## Мои соц.сети
+*[Telegram](https://t.me/kektris)*
+
+*[OpenVK](https://ovk.to/id12516)*
+
+*[Github](https://github.com/kektris)*
+
+*[Mastodon](https://mastodon.social/@itsa_ilya)*
