@@ -1,4 +1,5 @@
 # <img align="right" src="/kektriscover.png" alt="Ilya Kektris" title="kektris" width="15%">я илюша
+[ENG](https://kektris.github.io/)
 Я где-то кодер и дизайнер. Особо нечего больше сказать.
 ## Мои проекты
 - [KekAudio](https://github.com/kektris/kekaudio) - простой движок стримингового сервиса
