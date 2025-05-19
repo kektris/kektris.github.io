@@ -12,7 +12,7 @@
 >> 
 >> Второй: **Apple iPhone 12 mini 4/64**
 >>
->> Others:
+>> Другое барахлище:
 >>> **Apple iPhone 6s 2/64**
 >>> 
 >>> **Apple iPhone 5s 1/16**
