@@ -1,4 +1,6 @@
 # <img align="right" src="/kektriscover.png" alt="Ilya Kektris" title="kektris" width="15%">Hi, I'm Ilya
+[RU](https://kektris.github.io/ru)
+
 I'm coder and designer from Russia. Currently in mid-school.
 ## My projects
 - [KekAudio](https://github.com/kektris/kekaudio) - basic audio streaming engine
