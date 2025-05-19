@@ -32,3 +32,12 @@ I'm coder and designer from Russia. Currently in mid-school.
 >>> Memory: **8/512**
 >>>
 >>> OS: **macOS 14.7.1 (Sonoma)**
+
+## Contact me on
+*[Telegram](https://t.me/kektris)*
+
+*[OpenVK](https://ovk.to/id12516)*
+
+*[Github](https://github.com/kektris)*
+
+*[Mastodon](https://mastodon.social/@itsa_ilya)*
