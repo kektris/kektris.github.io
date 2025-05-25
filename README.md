@@ -10,7 +10,7 @@ I'm coder and designer from Russia. Currently in mid-school.
 > My Phones
 >> Main: **Google Pixel 8 8/128**
 >> 
->> Secondary: **Apple iPhone 12 mini 4/64**
+>> Secondary: dont have now
 >>
 >> Others:
 >>> **Apple iPhone 6s 2/64**
