@@ -31,7 +31,7 @@ I'm coder and designer from Russia. Currently in mid-school.
 >>>
 >>> Memory: **8/512**
 >>>
->>> OS: **macOS 14.7.1 (Sonoma)**
+>>> OS: **macOS 15.6 (Sequoia)**
 
 ## Contact me on
 *[Telegram](https://t.me/kektris)*
