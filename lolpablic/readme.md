@@ -16,6 +16,8 @@
 
 *[СТС-РУКОЖОПСК](https://t.me/ctcrukozhopsk)* - канал для стёба над итв
 
+*[OFFICIAL ZBC TELEGRAM CHANNEL](https://t.me/porno_meteo)* - ещё один стёб над всем итв да и вообще стёб на стёбе
+
 ## Каналы за пределами Telegram:
 
 *[олуховские посты онли для олухов](https://ovk.to/lolpablic)* - тоже хаб всей сетки, только в OpenVK
@@ -30,19 +32,11 @@
 
 *[Kektris](https://youtube.com/@kektris)* - канал на ютубе
 
-## Каналы, посвящённые временным событиям:
-
-*[Ebuvision](https://t.me/ebuvision)* - очередной стёб над всеми видениями
-
-*[ЧечняVision](https://t.me/chechnyavision)* - ещё один стёб, работает совместно с вышеупомянутым Ebuvision
-
 ## Каналы, которые разделены на половину:
 
 *[фиретимщина](https://t.me/firetime_yt)* - очень интересный канал по дрочке вообще на всё что можно
 
 *[щитпостная 34](https://t.me/shitpostnaya_nomer_34)* - по названию можно понять
-
-*[OFFICIAL ZBC TELEGRAM CHANNEL](https://t.me/porno_meteo)* - ещё один стёб над всем итв да и вообще стёб на стёбе
 
 ## Сайты:
 
@@ -53,3 +47,4 @@
 *[nkb.synergize.co](https://nkb.synergize.co)* - наполовину рабочий сайт, где иногда эфиры бывают
 
 *[Epmakob.Web1337](https://epmakob.web1337.net)* - рофлянский сайт про одну интересную личность с крышесносным CSS (честно говоря я даже не знаю работает ли он или нет)
+
