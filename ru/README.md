@@ -1,7 +1,7 @@
 # <img align="right" src="/kektriscover.png" alt="Ilya Kektris" title="kektris" width="15%">я илюша
 [ENG](https://kektris.github.io/)
 
-Я где-то кодер и дизайнер. Особо нечего больше сказать.
+Я где то кодер, но в основном моушн-дизайнер. Особо нечего больше сказать.
 ## Мои проекты
 - [KekAudio](https://github.com/kektris/kekaudio) - простой движок стримингового сервиса
 - [LolPablic](https://t.me/lolpablic) - мой канал в телеге, а так же огромное кольцо других каналов
@@ -23,7 +23,7 @@
 >>>
 >>> Память: **8/1TB**
 >>> 
->>> Система: Дуалбут **Windows 11 23H2** и **Ubuntu 24.04**
+>>> Система: Дуалбут **Windows 11 25H2** и **Ubuntu 24.04**
 >>>
 >>
 >> Второй: **MacBook Pro (Retina, 13-inch, Early 2013)**
@@ -41,4 +41,5 @@
 *[Github](https://github.com/kektris)*
 
 *[Mastodon](https://mastodon.social/@itsa_ilya)*
+
 
