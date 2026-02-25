@@ -10,7 +10,7 @@
 > Мои телефоны
 >> Основа: **Google Pixel 8 8/128**
 >> 
->> Второй: пока что нету
+>> Второй: **Xiaomi Mi 5s 4/32**
 >>
 >> Другое барахлище:
 >>> **Apple iPhone 6s 2/64**
@@ -22,14 +22,18 @@
 >>> Процессор: **Intel Core i5-10210U**
 >>>
 >>> Память: **8/1TB**
->>> 
->>> Система: Дуалбут **Windows 11 25H2** и **Ubuntu 24.04**
+>>>
+>>> Видеокарта: **Nvidia GeForce MX250 (Overclocked)**
+>>>
+>>> Система: **Windows 11 25H2**
 >>>
 >>
 >> Второй: **MacBook Pro (Retina, 13-inch, Early 2013)**
 >>> Процессор: **Intel Core i5-3230M**
 >>>
 >>> Память: **8/512**
+>>>
+>>> Видеокарта: **Intel HD Graphics 4000**
 >>>
 >>> Система: **macOS 15.6 (Sequoia)**
 
@@ -41,5 +45,6 @@
 *[Github](https://github.com/kektris)*
 
 *[Mastodon](https://mastodon.social/@itsa_ilya)*
+
 
 
