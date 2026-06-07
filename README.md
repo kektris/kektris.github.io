@@ -12,3 +12,5 @@ I'm vtuber and sound engineer from Russia. Currently in mid-school.
 *[Mastodon](https://mastodon.social/@itsa_ilya)*
 
 *[SoundCloud](https://soundcloud.com/kektris)*
+
+*[my own HumHub instance](https://kektrishub.web1337.net/u/kektris/)*
