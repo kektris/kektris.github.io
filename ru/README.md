@@ -10,7 +10,7 @@
 > Мои телефоны
 >> Основа: **Google Pixel 8 8/128**
 >> 
->> Второй: **Xiaomi Mi 5s 4/32**
+>> Второй: **Xiaomi Mi 8 Lite 4/128** с **Evolution X 11 (Android 16)
 >>
 >> Другое барахлище:
 >>> **Apple iPhone 6s 2/64**
@@ -25,17 +25,17 @@
 >>>
 >>> Видеокарта: **Nvidia GeForce MX250 (Overclocked)**
 >>>
->>> Система: **Windows 11 25H2**
+>>> Система: **Windows 10 22H2**
 >>>
 >>
->> Второй: **MacBook Pro (Retina, 13-inch, Early 2013)**
->>> Процессор: **Intel Core i5-3230M**
+>> Второй: **Lenovo V460**
+>>> Процессор: **Intel Pentium P6000**
 >>>
->>> Память: **8/512**
+>>> Память: **4/120**
 >>>
->>> Видеокарта: **Intel HD Graphics 4000**
+>>> Видеокарта: **Nvidia GeForce 310M**
 >>>
->>> Система: **macOS 15.6 (Sequoia)**
+>>> Система: **Fedora 44**
 
 ## Мои соц.сети
 *[Telegram](https://t.me/kektris)*
