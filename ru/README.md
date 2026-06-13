@@ -8,9 +8,9 @@
 ## Мои девайсы
 
 > Мои телефоны
->> Основа: **Google Pixel 8 8/128**
+>> Основа: **Google Pixel 8 8/128** с **Android 16**
 >> 
->> Второй: **Xiaomi Mi 8 Lite 4/128** с **Evolution X 11 (Android 16)
+>> Второй: **Xiaomi Mi 8 Lite 4/64** с **Evolution X 11 (Android 16)**
 >>
 >> Другое барахлище:
 >>> **Apple iPhone 6s 2/64**
