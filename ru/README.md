@@ -10,7 +10,7 @@
 > Мои телефоны
 >> Основа: **Google Pixel 8 8/128** с **Android 16**
 >> 
->> Второй: **Xiaomi Mi 8 Lite 4/64** с **Evolution X 11 (Android 16)**
+>> Второй: **Xiaomi Mi 8 Lite 4/64** с **DerpFest 15 (Android 15)**
 >>
 >> Другое барахлище:
 >>> **Apple iPhone 6s 2/64**
@@ -35,7 +35,7 @@
 >>>
 >>> Видеокарта: **Nvidia GeForce 310M**
 >>>
->>> Система: **Fedora 44**
+>>> Система: **Red Star OS 3.0** с фиксами **[DeepRed](https://github.com/kektris/deepred)**
 
 ## Мои соц.сети
 *[Telegram](https://t.me/kektris)*
