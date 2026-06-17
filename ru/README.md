@@ -1,14 +1,13 @@
 # <img align="right" src="/kektriscover.png" alt="Ilya Kektris" title="kektris" width="15%">я илюша
 [ENG](https://kektris.github.io/)
 
-Я где то кодер, но в основном моушн-дизайнер. Особо нечего больше сказать.
+Я где то кодер, но в основном саунд-инженер. Особо нечего больше сказать.
 ## Мои проекты
-- [KekAudio](https://github.com/kektris/kekaudio) - простой движок стримингового сервиса
-- [LolPablic](https://t.me/lolpablic) - мой канал в телеге, а так же огромное кольцо других каналов
+а где
 ## Мои девайсы
 
 > Мои телефоны
->> Основа: **Google Pixel 8 8/128** с **Android 16**
+>> Основа: **Google Pixel 8 8/128** с **Android 17**
 >> 
 >> Второй: **Xiaomi Mi 8 Lite 4/64** с **DerpFest 15 (Android 15)**
 >>
