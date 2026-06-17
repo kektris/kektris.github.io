@@ -1,7 +1,7 @@
 # <img align="right" src="/kektriscover.png" alt="Ilya Kektris" title="kektris" width="15%">Hi, I'm Ilya
 [RU](https://kektris.github.io/ru)
 
-I'm vtuber and sound engineer from Russia. Currently in mid-school.
+I'm system administrator and sound engineer from Russia. Currently in mid-school.
 
 
 ## Contact me on
