@@ -16,25 +16,16 @@
 >>> 
 >>> **Apple iPhone 5s 1/16**
 
-> Мои ноуты
->> Основа: **Mi Notebook Pro 15.6": Enhanced Edition 2019**
->>> Процессор: **Intel Core i5-10210U**
+> Мой комп
+>> Процессор: **Intel Core i5-14400F**
+>>
+>> Память: **16/1.5TB**
+>>
+>> Видеокарта: **Nvidia GeForce RTX 5060**
 >>>
->>> Память: **8/1TB**
->>>
->>> Видеокарта: **Nvidia GeForce MX250 (Overclocked)**
->>>
->>> Система: **Windows 10 22H2**
+>> Система: **Windows 11 25H2**
 >>>
 >>
->> Второй: **Lenovo V460**
->>> Процессор: **Intel Pentium P6000**
->>>
->>> Память: **4/120**
->>>
->>> Видеокарта: **Nvidia GeForce 310M**
->>>
->>> Система: **Red Star OS 3.0** с фиксами **[DeepRed](https://github.com/kektris/deepred)**
 
 ## Мои соц.сети
 *[Telegram](https://t.me/kektris)*
