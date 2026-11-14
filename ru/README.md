@@ -25,7 +25,14 @@
 >>>
 >> Система: **Windows 11 25H2**
 >>>
+> Второй ноут
+>> **Xiaomi Mi Notebook Air 12 2017**
 >>
+>> Процессор: **Intel Core m3-7Y30**
+>>
+>> Память: **4/128**
+>>
+>> Система: **Windows 10 22H2**
 
 ## Мои соц.сети
 *[Telegram](https://t.me/kektris)*
